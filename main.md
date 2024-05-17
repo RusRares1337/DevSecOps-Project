@@ -1,0 +1,1 @@
+`` Using technologies like GitLab CI/CD, Kubernetes, Docker, Terraform, Linux, Python and AWS from a security perspective ``
